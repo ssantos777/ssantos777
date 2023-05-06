@@ -5,7 +5,7 @@
 
 - 🎓 Graduando em Sistemas de Informação (UNIFESSPA)
 
-- 🤔 Desenvolvendo atualmente em **Java e Spring**
+- 🤔 Desenvolvendo atualmente em **Java com Spring**
 
 - 🌟 Tenho planos de estudar **C# e .NET**
 
